@@ -12,6 +12,7 @@ namespace JFExplr
         {
             Console.WriteLine("Hello Jackfruit");
             Console.WriteLine("Where is my raspberry pi?");
+            Console.WriteLine("The beginning of a new era?");
             Console.Read();
         }
     }
